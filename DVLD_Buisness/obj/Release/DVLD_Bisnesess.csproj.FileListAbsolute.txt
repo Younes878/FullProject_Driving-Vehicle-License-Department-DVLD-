@@ -1,0 +1,9 @@
+D:\Projects\DVLD_project\code source\Project\DVLD_Buisness\bin\Release\DVLD_Buisness.dll
+D:\Projects\DVLD_project\code source\Project\DVLD_Buisness\bin\Release\DVLD_Buisness.pdb
+D:\Projects\DVLD_project\code source\Project\DVLD_Buisness\bin\Release\DVLD_DataAccess.dll
+D:\Projects\DVLD_project\code source\Project\DVLD_Buisness\bin\Release\DVLD_DataAccess.pdb
+D:\Projects\DVLD_project\code source\Project\DVLD_Buisness\obj\Release\DVLD_Bisnesess.csproj.AssemblyReference.cache
+D:\Projects\DVLD_project\code source\Project\DVLD_Buisness\obj\Release\DVLD_Bisnesess.csproj.CoreCompileInputs.cache
+D:\Projects\DVLD_project\code source\Project\DVLD_Buisness\obj\Release\DVLD_Bis.6EB7D04A.Up2Date
+D:\Projects\DVLD_project\code source\Project\DVLD_Buisness\obj\Release\DVLD_Buisness.dll
+D:\Projects\DVLD_project\code source\Project\DVLD_Buisness\obj\Release\DVLD_Buisness.pdb
