@@ -1,0 +1,17 @@
+D:\Projects\Bank_Project\Bank\MyControlLibrary1\obj\Debug\MyControlLibrary1.csproj.AssemblyReference.cache
+D:\Projects\Bank_Project\Bank\MyControlLibrary1\obj\Debug\Bank.AlphBlenderTextBox.resources
+D:\Projects\Bank_Project\Bank\MyControlLibrary1\obj\Debug\MyControlLibrary1.MyCustomTextBox.resources
+D:\Projects\Bank_Project\Bank\MyControlLibrary1\obj\Debug\MyControlLibrary1.csproj.GenerateResource.cache
+D:\Projects\Bank_Project\Bank\MyControlLibrary1\obj\Debug\MyControlLibrary1.csproj.CoreCompileInputs.cache
+D:\Projects\Bank_Project\Bank\MyControlLibrary1\bin\Debug\MyControlLibrary1.dll
+D:\Projects\Bank_Project\Bank\MyControlLibrary1\bin\Debug\MyControlLibrary1.pdb
+D:\Projects\Bank_Project\Bank\MyControlLibrary1\bin\Debug\AlphaUtils.dll
+D:\Projects\Bank_Project\Bank\MyControlLibrary1\obj\Debug\MyContro.D1F450D2.Up2Date
+D:\Projects\Bank_Project\Bank\MyControlLibrary1\obj\Debug\MyControlLibrary1.dll
+D:\Projects\Bank_Project\Bank\MyControlLibrary1\obj\Debug\MyControlLibrary1.pdb
+D:\Projects\Bank_Project\Bank\MyControlLibrary1\bin\Debug\BankBusinessLayer.dll
+D:\Projects\Bank_Project\Bank\MyControlLibrary1\bin\Debug\BankDataAccessLayer.dll
+D:\Projects\Bank_Project\Bank\MyControlLibrary1\bin\Debug\BankBusinessLayer.pdb
+D:\Projects\Bank_Project\Bank\MyControlLibrary1\bin\Debug\BankDataAccessLayer.pdb
+D:\Projects\Bank_Project\Bank\MyControlLibrary1\bin\Debug\Logger.dll
+D:\Projects\Bank_Project\Bank\MyControlLibrary1\bin\Debug\Logger.pdb

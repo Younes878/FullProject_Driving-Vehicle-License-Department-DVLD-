@@ -79,8 +79,8 @@ namespace DVLD
 
         private void manageApplicationTypesToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            //frmManageApplicationTypes frm = new frmManageApplicationTypes();
-           // frm.ShowDialog();
+            frmListApplicationTypes frm = new frmListApplicationTypes();
+            frm.ShowDialog();
         }
 
         private void manageTestTypesToolStripMenuItem_Click(object sender, EventArgs e)
@@ -104,8 +104,6 @@ namespace DVLD
 
         }
 
-       
-
         private void releaseDetainedDrivingLicenseToolStripMenuItem_Click(object sender, EventArgs e)
         {
 
@@ -118,7 +116,6 @@ namespace DVLD
             frmListLocalDrivingLicesnseApplications frm = new frmListLocalDrivingLicesnseApplications();
             frm.ShowDialog();
         }
-
       
         private void vehiclesLicensesServicesToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -143,8 +140,8 @@ namespace DVLD
 
         private void ManageInternationaDrivingLicenseToolStripMenuItem1_Click(object sender, EventArgs e)
         {
-           // frmListInternationalLicesnseApplications frm = new frmListInternationalLicesnseApplications();
-           // frm.ShowDialog();
+            frmListInternationalLicenseApplications frm = new frmListInternationalLicenseApplications();
+            frm.ShowDialog();
 
         }
 

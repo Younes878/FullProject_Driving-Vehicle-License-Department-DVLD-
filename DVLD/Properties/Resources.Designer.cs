@@ -353,6 +353,16 @@ namespace DVLD.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Delhi_Drivers_License_removebg {
+            get {
+                object obj = ResourceManager.GetObject("Delhi-Drivers-License-removebg", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Detain_32 {
             get {
                 object obj = ResourceManager.GetObject("Detain_32", resourceCulture);

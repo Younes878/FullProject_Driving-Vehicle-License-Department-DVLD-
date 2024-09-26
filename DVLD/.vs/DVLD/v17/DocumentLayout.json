@@ -7,27 +7,62 @@
       "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\login\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:login\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\applications\\international license\\frmlistinternationallicesnseapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:applications\\international license\\frmlistinternationallicesnseapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\applications\\application types\\frmlistapplicationtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:applications\\application types\\frmlistapplicationtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\applications\\application types\\frmeditapplicationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:applications\\application types\\frmeditapplicationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
       "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|DVLD||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{4728A592-58C9-4C40-8409-13FF929FC9DD}|..\\DVLD_DataAccess\\DVLD_DataAccess.csproj|c:\\users\\hadjy\\downloads\\my-github\\fullproject_driving-vehicle-license-department-dvld-\\dvld_dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4728A592-58C9-4C40-8409-13FF929FC9DD}|..\\DVLD_DataAccess\\DVLD_DataAccess.csproj|c:\\users\\hadjy\\downloads\\my-github\\fullproject_driving-vehicle-license-department-dvld-\\dvld_dataaccess\\clsdetainedlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4728A592-58C9-4C40-8409-13FF929FC9DD}|..\\DVLD_DataAccess\\DVLD_DataAccess.csproj|c:\\users\\hadjy\\downloads\\my-github\\fullproject_driving-vehicle-license-department-dvld-\\dvld_dataaccess\\clscountrydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4728A592-58C9-4C40-8409-13FF929FC9DD}|..\\DVLD_DataAccess\\DVLD_DataAccess.csproj|c:\\users\\hadjy\\downloads\\my-github\\fullproject_driving-vehicle-license-department-dvld-\\dvld_dataaccess\\clsapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4728A592-58C9-4C40-8409-13FF929FC9DD}|..\\DVLD_DataAccess\\DVLD_DataAccess.csproj|c:\\users\\hadjy\\downloads\\my-github\\fullproject_driving-vehicle-license-department-dvld-\\dvld_dataaccess\\applicationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\applications\\application types\\frmeditapplicationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:applications\\application types\\frmeditapplicationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|DVLD||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\applications\\international license\\frmlistinternationallicesnseapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:applications\\international license\\frmlistinternationallicesnseapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -178,14 +213,6 @@
       "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:licenses\\local licenses\\frmissuedriverlicensefirsttime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\login\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:login\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\licenses\\frmshowpersonlicensehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:licenses\\frmshowpersonlicensehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -208,10 +235,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\people\\controls\\ctrlpersoncardwithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:people\\controls\\ctrlpersoncardwithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\applications\\application types\\frmlistapplicationtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:applications\\application types\\frmlistapplicationtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\user\\frmuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -282,7 +305,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 21,
               "Title": "Resource1.resx",
               "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\Resource1.resx",
               "RelativeDocumentMoniker": "Resource1.resx",
@@ -315,30 +338,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ctrlUserCard.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\User\\ctrlUserCard.cs",
-              "RelativeDocumentMoniker": "User\\ctrlUserCard.cs",
-              "ToolTip": "D:\\Projects\\DVLD_project\\code source\\Project\\DVLD\\User\\ctrlUserCard.cs [Design]",
+              "DocumentIndex": 14,
+              "Title": "frmEditApplicationType.cs",
+              "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\Applications\\Application Types\\frmEditApplicationType.cs",
+              "RelativeDocumentMoniker": "Applications\\Application Types\\frmEditApplicationType.cs",
+              "ToolTip": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\Applications\\Application Types\\frmEditApplicationType.cs",
+              "RelativeToolTip": "Applications\\Application Types\\frmEditApplicationType.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAwwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T16:54:18.566Z"
+              "WhenOpened": "2024-09-25T20:18:49.939Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Resource1.resx",
-              "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\Resource1.resx",
-              "RelativeDocumentMoniker": "Resource1.resx",
-              "ToolTip": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\Resource1.resx",
-              "RelativeToolTip": "Resource1.resx",
-              "ViewState": "AQIAAGUAAAAAAAAAAAAAAHMAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2024-09-25T01:10:17.436Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Resources.resx",
               "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\Properties\\Resources.resx",
               "RelativeDocumentMoniker": "Properties\\Resources.resx",
@@ -350,7 +362,196 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 73,
+              "Title": "clsUser.cs",
+              "DocumentMoniker": "D:\\Projects\\DVLD_project\\code source\\Project\\DVLD_Buisness\\clsUser.cs",
+              "ToolTip": "D:\\Projects\\DVLD_project\\code source\\Project\\DVLD_Buisness\\clsUser.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T16:43:18.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\frmMain.cs",
+              "RelativeDocumentMoniker": "frmMain.cs",
+              "ToolTip": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\frmMain.cs",
+              "RelativeToolTip": "frmMain.cs",
+              "ViewState": "AQIAAJ0AAAAAAAAAAAAswKcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T10:19:16.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmListApplicationTypes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\Applications\\Application Types\\frmListApplicationTypes.cs",
+              "RelativeDocumentMoniker": "Applications\\Application Types\\frmListApplicationTypes.cs",
+              "ToolTip": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\Applications\\Application Types\\frmListApplicationTypes.cs [Design]",
+              "RelativeToolTip": "Applications\\Application Types\\frmListApplicationTypes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T16:55:17.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\Login\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Login\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\Login\\frmLogin.cs [Design]",
+              "RelativeToolTip": "Login\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T20:31:13.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\Login\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Login\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\Login\\frmLogin.cs",
+              "RelativeToolTip": "Login\\frmLogin.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAcwDUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T15:23:25.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmLogin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\Login\\frmLogin.Designer.cs",
+              "RelativeDocumentMoniker": "Login\\frmLogin.Designer.cs",
+              "ToolTip": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\Login\\frmLogin.Designer.cs",
+              "RelativeToolTip": "Login\\frmLogin.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T08:06:30.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationType.cs",
+              "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD_DataAccess\\ApplicationType.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_DataAccess\\ApplicationType.cs",
+              "ToolTip": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD_DataAccess\\ApplicationType.cs",
+              "RelativeToolTip": "..\\DVLD_DataAccess\\ApplicationType.cs",
+              "ViewState": "AQIAALAAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T20:21:21.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "clsApplication.cs",
+              "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD_DataAccess\\clsApplication.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_DataAccess\\clsApplication.cs",
+              "ToolTip": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD_DataAccess\\clsApplication.cs",
+              "RelativeToolTip": "..\\DVLD_DataAccess\\clsApplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T20:21:43.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "clsCountryData.cs",
+              "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD_DataAccess\\clsCountryData.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_DataAccess\\clsCountryData.cs",
+              "ToolTip": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD_DataAccess\\clsCountryData.cs",
+              "RelativeToolTip": "..\\DVLD_DataAccess\\clsCountryData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T20:21:45.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmListInternationalLicesnseApplications.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\Applications\\International License\\frmListInternationalLicesnseApplications.cs",
+              "RelativeDocumentMoniker": "Applications\\International License\\frmListInternationalLicesnseApplications.cs",
+              "ToolTip": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\Applications\\International License\\frmListInternationalLicesnseApplications.cs [Design]",
+              "RelativeToolTip": "Applications\\International License\\frmListInternationalLicesnseApplications.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T06:45:21.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmEditApplicationType.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\Applications\\Application Types\\frmEditApplicationType.cs",
+              "RelativeDocumentMoniker": "Applications\\Application Types\\frmEditApplicationType.cs",
+              "ToolTip": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\Applications\\Application Types\\frmEditApplicationType.cs [Design]",
+              "RelativeToolTip": "Applications\\Application Types\\frmEditApplicationType.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T20:18:47.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "clsDetainedLicense.cs",
+              "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD_DataAccess\\clsDetainedLicense.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_DataAccess\\clsDetainedLicense.cs",
+              "ToolTip": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD_DataAccess\\clsDetainedLicense.cs",
+              "RelativeToolTip": "..\\DVLD_DataAccess\\clsDetainedLicense.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T20:21:46.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "clsPerson.cs",
+              "DocumentMoniker": "D:\\Projects\\DVLD_project\\code source\\Project\\DVLD_Buisness\\clsPerson.cs",
+              "ToolTip": "D:\\Projects\\DVLD_project\\code source\\Project\\DVLD_Buisness\\clsPerson.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T16:42:56.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD_DataAccess\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_DataAccess\\Class1.cs",
+              "ToolTip": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD_DataAccess\\Class1.cs",
+              "RelativeToolTip": "..\\DVLD_DataAccess\\Class1.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T20:21:37.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "clsApplication.cs",
+              "DocumentMoniker": "D:\\Projects\\DVLD_project\\code source\\Project\\DVLD_Buisness\\clsApplication.cs",
+              "ToolTip": "D:\\Projects\\DVLD_project\\code source\\Project\\DVLD_Buisness\\clsApplication.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T17:24:13.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ctrlUserCard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\User\\ctrlUserCard.cs",
+              "RelativeDocumentMoniker": "User\\ctrlUserCard.cs",
+              "ToolTip": "D:\\Projects\\DVLD_project\\code source\\Project\\DVLD\\User\\ctrlUserCard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T16:54:18.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Resource1.resx",
+              "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\Resource1.resx",
+              "RelativeDocumentMoniker": "Resource1.resx",
+              "ToolTip": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\Resource1.resx",
+              "RelativeToolTip": "Resource1.resx",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAAAHMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-09-25T01:10:17.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
               "Title": "frmShowInternationalLicenseInfo.Designer.cs",
               "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\Licenses\\International Licenses\\frmShowInternationalLicenseInfo.Designer.cs",
               "RelativeDocumentMoniker": "Licenses\\International Licenses\\frmShowInternationalLicenseInfo.Designer.cs",
@@ -362,7 +563,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 27,
               "Title": "ctrlDriverLicenseInfoWithFilter.Designer.cs",
               "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\Licenses\\Local Licenses\\Controls\\ctrlDriverLicenseInfoWithFilter.Designer.cs",
               "RelativeDocumentMoniker": "Licenses\\Local Licenses\\Controls\\ctrlDriverLicenseInfoWithFilter.Designer.cs",
@@ -374,7 +575,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 35,
               "Title": "ctrlDriverInternationalLicenseInfo.Designer.cs",
               "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\Licenses\\International Licenses\\Controls\\ctrlDriverInternationalLicenseInfo.Designer.cs",
               "RelativeDocumentMoniker": "Licenses\\International Licenses\\Controls\\ctrlDriverInternationalLicenseInfo.Designer.cs",
@@ -386,57 +587,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "frmLogin.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\Login\\frmLogin.cs",
-              "RelativeDocumentMoniker": "Login\\frmLogin.cs",
-              "ToolTip": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\Login\\frmLogin.cs [Design]",
-              "RelativeToolTip": "Login\\frmLogin.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T20:31:13.432Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 65,
-              "Title": "clsApplication.cs",
-              "DocumentMoniker": "D:\\Projects\\DVLD_project\\code source\\Project\\DVLD_Buisness\\clsApplication.cs",
-              "ToolTip": "D:\\Projects\\DVLD_project\\code source\\Project\\DVLD_Buisness\\clsApplication.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T17:24:13.505Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 66,
-              "Title": "clsUser.cs",
-              "DocumentMoniker": "D:\\Projects\\DVLD_project\\code source\\Project\\DVLD_Buisness\\clsUser.cs",
-              "ToolTip": "D:\\Projects\\DVLD_project\\code source\\Project\\DVLD_Buisness\\clsUser.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T16:43:18.448Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 67,
-              "Title": "clsPerson.cs",
-              "DocumentMoniker": "D:\\Projects\\DVLD_project\\code source\\Project\\DVLD_Buisness\\clsPerson.cs",
-              "ToolTip": "D:\\Projects\\DVLD_project\\code source\\Project\\DVLD_Buisness\\clsPerson.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T16:42:56.197Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "frmMain.cs",
-              "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\frmMain.cs",
-              "RelativeDocumentMoniker": "frmMain.cs",
-              "ToolTip": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\frmMain.cs",
-              "RelativeToolTip": "frmMain.cs",
-              "ViewState": "AQIAAFAAAAAAAAAAAAAQwJIAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T10:19:16.321Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 15,
               "Title": "DVLD",
               "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\DVLD.csproj",
               "RelativeDocumentMoniker": "DVLD.csproj",
@@ -447,7 +598,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 16,
               "Title": "frmMain.Designer.cs",
               "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\frmMain.Designer.cs",
               "RelativeDocumentMoniker": "frmMain.Designer.cs",
@@ -459,17 +610,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "frmListInternationalLicesnseApplications.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\Applications\\International License\\frmListInternationalLicesnseApplications.cs",
-              "RelativeDocumentMoniker": "Applications\\International License\\frmListInternationalLicesnseApplications.cs",
-              "ToolTip": "D:\\Projects\\DVLD_project\\code source\\Project\\DVLD\\Applications\\International License\\frmListInternationalLicesnseApplications.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T06:45:21.243Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 45,
               "Title": ".NETFramework,Version=v4.8.AssemblyAttributes.cs",
               "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\obj\\Release\\.NETFramework,Version=v4.8.AssemblyAttributes.cs",
               "RelativeDocumentMoniker": "obj\\Release\\.NETFramework,Version=v4.8.AssemblyAttributes.cs",
@@ -481,7 +622,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 17,
               "Title": "Resources.Designer.cs",
               "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\Properties\\Resources.Designer.cs",
               "RelativeDocumentMoniker": "Properties\\Resources.Designer.cs",
@@ -493,7 +634,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 31,
               "Title": "frmAddUpdateUser.Designer.cs",
               "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\User\\frmAddUpdateUser.Designer.cs",
               "RelativeDocumentMoniker": "User\\frmAddUpdateUser.Designer.cs",
@@ -505,7 +646,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 24,
               "Title": "frmListUsers.Designer.cs",
               "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\User\\frmListUsers.Designer.cs",
               "RelativeDocumentMoniker": "User\\frmListUsers.Designer.cs",
@@ -517,7 +658,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 23,
               "Title": "frmListTestAppointments.cs",
               "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\Tests\\frmListTestAppointments.cs",
               "RelativeDocumentMoniker": "Tests\\frmListTestAppointments.cs",
@@ -529,7 +670,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 40,
               "Title": "packages.config",
               "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\packages.config",
               "RelativeDocumentMoniker": "packages.config",
@@ -541,7 +682,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 32,
               "Title": "ctrlDriverLicenseInfo.cs",
               "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\Licenses\\Local Licenses\\Controls\\ctrlDriverLicenseInfo.cs",
               "RelativeDocumentMoniker": "Licenses\\Local Licenses\\Controls\\ctrlDriverLicenseInfo.cs",
@@ -553,7 +694,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 43,
               "Title": "ctrlSecheduledTest.cs",
               "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\Tests\\Controls\\ctrlSecheduledTest.cs",
               "RelativeDocumentMoniker": "Tests\\Controls\\ctrlSecheduledTest.cs",
@@ -565,7 +706,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 26,
               "Title": "frmIssueDriverLicenseFirstTime.Designer.cs",
               "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\Licenses\\Local Licenses\\frmIssueDriverLicenseFirstTime.Designer.cs",
               "RelativeDocumentMoniker": "Licenses\\Local Licenses\\frmIssueDriverLicenseFirstTime.Designer.cs",
@@ -577,7 +718,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 28,
               "Title": "frmListLocalDrivingLicesnseApplications.Designer.cs",
               "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\Applications\\Local Driving License\\frmListLocalDrivingLicesnseApplications.Designer.cs",
               "RelativeDocumentMoniker": "Applications\\Local Driving License\\frmListLocalDrivingLicesnseApplications.Designer.cs",
@@ -589,7 +730,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 42,
               "Title": "crlScheduleTest.cs",
               "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\Tests\\Controls\\crlScheduleTest.cs",
               "RelativeDocumentMoniker": "Tests\\Controls\\crlScheduleTest.cs",
@@ -601,7 +742,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 41,
               "Title": "ctrlPersonCard.cs",
               "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\People\\Controls\\ctrlPersonCard.cs",
               "RelativeDocumentMoniker": "People\\Controls\\ctrlPersonCard.cs",
@@ -613,7 +754,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 29,
               "Title": "ctrlApplicationBasicInfo.Designer.cs",
               "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\Applications\\Controls\\ctrlApplicationBasicInfo.Designer.cs",
               "RelativeDocumentMoniker": "Applications\\Controls\\ctrlApplicationBasicInfo.Designer.cs",
@@ -625,7 +766,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 36,
               "Title": "ctrlDriverLicenseInfo.Designer.cs",
               "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\Licenses\\Local Licenses\\Controls\\ctrlDriverLicenseInfo.Designer.cs",
               "RelativeDocumentMoniker": "Licenses\\Local Licenses\\Controls\\ctrlDriverLicenseInfo.Designer.cs",
@@ -637,7 +778,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 25,
               "Title": "frmLocalDrivingLicenseApplicationInfo.Designer.cs",
               "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\Applications\\Local Driving License\\frmLocalDrivingLicenseApplicationInfo.Designer.cs",
               "RelativeDocumentMoniker": "Applications\\Local Driving License\\frmLocalDrivingLicenseApplicationInfo.Designer.cs",
@@ -649,7 +790,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 33,
               "Title": "frmAddUpdatePerson.Designer.cs",
               "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\People\\frmAddUpdatePerson.Designer.cs",
               "RelativeDocumentMoniker": "People\\frmAddUpdatePerson.Designer.cs",
@@ -661,7 +802,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 30,
               "Title": "frmAddUpdatePerson.cs",
               "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\People\\frmAddUpdatePerson.cs",
               "RelativeDocumentMoniker": "People\\frmAddUpdatePerson.cs",
@@ -673,7 +814,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 49,
               "Title": "frmEditApplicationType.Designer.cs",
               "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\Applications\\Application Types\\frmEditApplicationType.Designer.cs",
               "RelativeDocumentMoniker": "Applications\\Application Types\\frmEditApplicationType.Designer.cs",
@@ -685,7 +826,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 37,
               "Title": "Resources.resx",
               "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\Properties\\Resources.resx",
               "RelativeDocumentMoniker": "Properties\\Resources.resx",
@@ -693,11 +834,12 @@
               "RelativeToolTip": "Properties\\Resources.resx",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAMIBAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2024-09-24T16:50:45.501Z"
+              "WhenOpened": "2024-09-24T16:50:45.501Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 38,
               "Title": "Settings.settings",
               "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\Properties\\Settings.settings",
               "RelativeDocumentMoniker": "Properties\\Settings.settings",
@@ -709,7 +851,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 20,
               "Title": "frmAddUpdatePerson.cs [Design]",
               "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\People\\frmAddUpdatePerson.cs",
               "RelativeDocumentMoniker": "People\\frmAddUpdatePerson.cs",
@@ -719,7 +861,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 39,
               "Title": "Settings.Designer.cs",
               "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\Properties\\Settings.Designer.cs",
               "RelativeDocumentMoniker": "Properties\\Settings.Designer.cs",
@@ -731,7 +873,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 44,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\Properties\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
@@ -743,7 +885,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 46,
               "Title": "ctrlPersonCardWithFilter.Designer.cs",
               "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\People\\Controls\\ctrlPersonCardWithFilter.Designer.cs",
               "RelativeDocumentMoniker": "People\\Controls\\ctrlPersonCardWithFilter.Designer.cs",
@@ -755,7 +897,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 48,
               "Title": "frmListApplicationTypes.Designer.cs",
               "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\Applications\\Application Types\\frmListApplicationTypes.Designer.cs",
               "RelativeDocumentMoniker": "Applications\\Application Types\\frmListApplicationTypes.Designer.cs",
@@ -767,7 +909,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 51,
               "Title": "frmNewInternationalLicenseApplication.cs [Design]",
               "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\Applications\\International License\\frmNewInternationalLicenseApplication.cs",
               "RelativeDocumentMoniker": "Applications\\International License\\frmNewInternationalLicenseApplication.cs",
@@ -777,7 +919,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 50,
               "Title": "ctrlUserCard.Designer.cs",
               "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\User\\ctrlUserCard.Designer.cs",
               "RelativeDocumentMoniker": "User\\ctrlUserCard.Designer.cs",
@@ -789,7 +931,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 47,
               "Title": "frmAddUpdateUser.cs",
               "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\User\\frmAddUpdateUser.cs",
               "RelativeDocumentMoniker": "User\\frmAddUpdateUser.cs",
@@ -801,7 +943,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 52,
               "Title": "frmListLocalDrivingLicesnseApplications.cs",
               "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\Applications\\Local Driving License\\frmListLocalDrivingLicesnseApplications.cs",
               "RelativeDocumentMoniker": "Applications\\Local Driving License\\frmListLocalDrivingLicesnseApplications.cs",
@@ -813,7 +955,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 53,
               "Title": "frmIssueDriverLicenseFirstTime.cs [Design]",
               "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\Licenses\\Local Licenses\\frmIssueDriverLicenseFirstTime.cs",
               "RelativeDocumentMoniker": "Licenses\\Local Licenses\\frmIssueDriverLicenseFirstTime.cs",
@@ -823,7 +965,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 57,
               "Title": "frmAddUpdateLocalDrivingLicesnseApplication.cs",
               "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\Applications\\Local Driving License\\frmAddUpdateLocalDrivingLicesnseApplication.cs",
               "RelativeDocumentMoniker": "Applications\\Local Driving License\\frmAddUpdateLocalDrivingLicesnseApplication.cs",
@@ -835,19 +977,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "frmLogin.cs",
-              "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\Login\\frmLogin.cs",
-              "RelativeDocumentMoniker": "Login\\frmLogin.cs",
-              "ToolTip": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\Login\\frmLogin.cs",
-              "RelativeToolTip": "Login\\frmLogin.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAnwCgAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T15:23:25.901Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 19,
               "Title": "frmListTestAppointments.cs [Design]",
               "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\Tests\\frmListTestAppointments.cs",
               "RelativeDocumentMoniker": "Tests\\frmListTestAppointments.cs",
@@ -857,7 +987,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 56,
               "Title": "frmAddUpdateLocalDrivingLicesnseApplication.cs [Design]",
               "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\Applications\\Local Driving License\\frmAddUpdateLocalDrivingLicesnseApplication.cs",
               "RelativeDocumentMoniker": "Applications\\Local Driving License\\frmAddUpdateLocalDrivingLicesnseApplication.cs",
@@ -867,7 +997,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 54,
               "Title": "frmShowPersonLicenseHistory.cs [Design]",
               "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\Licenses\\frmShowPersonLicenseHistory.cs",
               "RelativeDocumentMoniker": "Licenses\\frmShowPersonLicenseHistory.cs",
@@ -877,29 +1007,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "frmLogin.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\Login\\frmLogin.Designer.cs",
-              "RelativeDocumentMoniker": "Login\\frmLogin.Designer.cs",
-              "ToolTip": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\Login\\frmLogin.Designer.cs",
-              "RelativeToolTip": "Login\\frmLogin.Designer.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwB0AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T08:06:30.78Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "frmListApplicationTypes.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\Applications\\Application Types\\frmListApplicationTypes.cs",
-              "RelativeDocumentMoniker": "Applications\\Application Types\\frmListApplicationTypes.cs",
-              "ToolTip": "D:\\Projects\\DVLD_project\\code source\\Project\\DVLD\\Applications\\Application Types\\frmListApplicationTypes.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T16:55:17.399Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 55,
               "Title": "frmScheduleTest.cs [Design]",
               "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\Tests\\frmScheduleTest.cs",
               "RelativeDocumentMoniker": "Tests\\frmScheduleTest.cs",
@@ -909,7 +1017,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 60,
               "Title": "frmUserInfo.cs [Design]",
               "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\User\\frmUserInfo.cs",
               "RelativeDocumentMoniker": "User\\frmUserInfo.cs",
@@ -919,7 +1027,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 61,
               "Title": "frmListUsers.cs [Design]",
               "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\User\\frmListUsers.cs",
               "RelativeDocumentMoniker": "User\\frmListUsers.cs",
@@ -929,7 +1037,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 59,
               "Title": "ctrlPersonCardWithFilter.cs [Design]",
               "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\People\\Controls\\ctrlPersonCardWithFilter.cs",
               "RelativeDocumentMoniker": "People\\Controls\\ctrlPersonCardWithFilter.cs",
@@ -939,7 +1047,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 62,
               "Title": "frmChangePassword.cs [Design]",
               "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\User\\frmChangePassword.cs",
               "RelativeDocumentMoniker": "User\\frmChangePassword.cs",
@@ -949,7 +1057,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 64,
               "Title": "ctrlPersonCardWithFilter.cs",
               "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\People\\Controls\\ctrlPersonCardWithFilter.cs",
               "RelativeDocumentMoniker": "People\\Controls\\ctrlPersonCardWithFilter.cs",
@@ -961,7 +1069,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 58,
               "Title": "ctrlPersonCard.cs [Design]",
               "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\People\\Controls\\ctrlPersonCard.cs",
               "RelativeDocumentMoniker": "People\\Controls\\ctrlPersonCard.cs",
@@ -971,7 +1079,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 68,
               "Title": "clsGlobal.cs",
               "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\Global Classes\\clsGlobal.cs",
               "RelativeDocumentMoniker": "Global Classes\\clsGlobal.cs",
@@ -983,7 +1091,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 70,
               "Title": "frmFindPerson.Designer.cs",
               "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\People\\frmFindPerson.Designer.cs",
               "RelativeDocumentMoniker": "People\\frmFindPerson.Designer.cs",
@@ -995,7 +1103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 63,
               "Title": "ctrlApplicationBasicInfo.cs [Design]",
               "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\Applications\\Controls\\ctrlApplicationBasicInfo.cs",
               "RelativeDocumentMoniker": "Applications\\Controls\\ctrlApplicationBasicInfo.cs",
@@ -1005,7 +1113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 71,
               "Title": "frmFindPerson.resx",
               "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\People\\frmFindPerson.resx",
               "RelativeDocumentMoniker": "People\\frmFindPerson.resx",
@@ -1016,7 +1124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 65,
               "Title": "frmAddUpdateUser.cs [Design]",
               "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\User\\frmAddUpdateUser.cs",
               "RelativeDocumentMoniker": "User\\frmAddUpdateUser.cs",
@@ -1026,7 +1134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 67,
               "Title": "frmFindPerson.cs [Design]",
               "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\People\\frmFindPerson.cs",
               "RelativeDocumentMoniker": "People\\frmFindPerson.cs",
@@ -1036,7 +1144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 66,
               "Title": "frmFindPerson.cs",
               "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\People\\frmFindPerson.cs",
               "RelativeDocumentMoniker": "People\\frmFindPerson.cs",
@@ -1048,7 +1156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 69,
               "Title": "frmListDrivers.cs",
               "DocumentMoniker": "C:\\Users\\hadjy\\Downloads\\My-Github\\FullProject_Driving-Vehicle-License-Department-DVLD-\\DVLD\\Drivers\\frmListDrivers.cs",
               "RelativeDocumentMoniker": "Drivers\\frmListDrivers.cs",

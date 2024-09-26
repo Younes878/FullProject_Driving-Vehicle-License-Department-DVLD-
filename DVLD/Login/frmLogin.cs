@@ -13,6 +13,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Diagnostics;
+using MyControlLibrary1;
 
 namespace DVLD.Login
 {
@@ -36,12 +37,12 @@ namespace DVLD.Login
         private void ResetPassword()
         {
             OriginalPassword = "";
-            txtPassword.Text = "";
+            txtPassword.Texts = "";
             Password = "";
         }
         private void btnLogin_Click(object sender, EventArgs e)
         {
-            if (!this.ValidateChildren() || string.IsNullOrEmpty(txtPassword.Text) || string.IsNullOrEmpty(txtUserName.Text)) 
+            if (!this.ValidateChildren() || string.IsNullOrEmpty(txtPassword.Texts) || string.IsNullOrEmpty(txtUserName.Texts)) 
             {
                 //Here we don't continue because the form is not valid
                 MessageBox.Show("Some fileds are not valide!, put the mouse over the red icon(s) to see the Error", "Validation Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
@@ -50,18 +51,18 @@ namespace DVLD.Login
             }
 
             // test is Password true when Enter from Text Box 
-            Password = txtPassword.Text == SubKey ? OriginalPassword : Password;
+            Password = txtPassword.Texts == SubKey ? OriginalPassword : Password;
             
             // check is the current user in remembered because the password is hashing in the windows registry 
-            Password = Password.Length != 64 ? clsGlobal.ComputeHash(txtPassword.Text) : Password;
-            clsUser user = clsUser.FindByUsernameAndPassword(txtUserName.Text.Trim(), Password);           
+            Password = Password.Length != 64 ? clsGlobal.ComputeHash(txtPassword.Texts) : Password;
+            clsUser user = clsUser.FindByUsernameAndPassword(txtUserName.Texts.Trim(), Password);           
 
             if (user != null) 
             {
                 if (chkRememberMe.Checked)
                 {
                     //store username and password
-                    clsGlobal.RememberUsernameAndPassword(txtUserName.Text.Trim(), Password);
+                    clsGlobal.RememberUsernameAndPassword(txtUserName.Texts.Trim(), Password);
 
                 }
                 else
@@ -100,9 +101,9 @@ namespace DVLD.Login
             if (clsGlobal.GetStoredCredential(ref UserName, ref Password))
             {
                 OriginalPassword = Password;
-                txtUserName.Text = UserName;
-                txtPassword.Text = Password.Substring(0, 10);
-                SubKey = txtPassword.Text; 
+                txtUserName.Texts = UserName;
+                txtPassword.Texts = Password.Substring(0, 10);
+                SubKey = txtPassword.Texts; 
                 chkRememberMe.Checked = true;
             }
             else
@@ -113,9 +114,9 @@ namespace DVLD.Login
         private void ValidateEmptyTextBox(object sender,CancelEventArgs e)
         {
             // First: set AutoValidate property of your Form to EnableAllowFocusChange in designer 
-            
-            TextBox temp = (TextBox)sender ;
-            if (string.IsNullOrEmpty(temp.Text.Trim()) || temp.Text == null) 
+
+            MyCustomTextBox temp = (MyCustomTextBox)sender ;
+            if (string.IsNullOrEmpty(temp.Texts.Trim()) || temp.Texts == null) 
             {
                // e.Cancel = true;
                 errorProvider1.SetError(temp, "This failed is required");
@@ -127,7 +128,7 @@ namespace DVLD.Login
 
         private void txtPassword_TextChanged(object sender, EventArgs e)
         {
-            Password = txtPassword.Text;
+            Password = txtPassword.Texts;
         }
 
         private void splitContainer1_Panel2_Paint(object sender, PaintEventArgs e)
